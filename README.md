@@ -1,6 +1,6 @@
 # Via CEP Tests
 
-Via CEP Tests is a test repository with basics scenarios to validating Via CEP API. The main language used here are Ruby(
+Via CEP Tests is a test repository with basics scenarios to validating Via CEP API. The main language used here are Ruby.
 
 
 ## Installation
