@@ -18,6 +18,10 @@ gem install bundler
 ```bash
 bundle install
 ```
+- For execute all scenarios:
+```bash
+cucumber
+```
 
 ## Contributing
 Pull requests are welcome. EVER!
